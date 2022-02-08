@@ -1,6 +1,6 @@
 # Privacy Policy
 
-### _Effective:_ February 8, 2022
+#### _Effective:_ February 8, 2022
 
 
 This policy document explains how the Operate First Data Science Community Meetup (“we” / “us” / “our”) collects, stores, and uses attendees’ personal information. If you wish to access any particular section of this Privacy Policy, use the list below to jump to that section.
@@ -64,10 +64,11 @@ We do not share information about you except as described in this Privacy Policy
 
 1. [https://support.google.com/a/answer/7582940 ](https://support.google.com/a/answer/7582940)
 2. [https://support.google.com/meet/answer/10090454](https://support.google.com/meet/answer/10090454)
+3. [https://help.meetup.com/hc/en-us/articles/360044422391-Privacy-Policy/](https://help.meetup.com/hc/en-us/articles/360044422391-Privacy-Policy/)
 
 
 ## Contact Us
 
-1. [Operate First Website](https://www.operate-first.cloud/data-science/operate-first-data-science-community/docs/meetup-landing-page.md)
-2. Create an issue on our [Github Repository](https://github.com/aicoe-aiops/operate-first-data-science-community)
-3. Reach out to us on [Slack](https://join.slack.com/t/operatefirst/shared_invite/zt-o2gn4wn8-O39g7sthTAuPCvaCNRnLww)
+1. [Operate First Website.](https://www.operate-first.cloud/data-science/operate-first-data-science-community/docs/meetup-landing-page.md)
+2. Create an issue on our [Github Repository.](https://github.com/aicoe-aiops/operate-first-data-science-community)
+3. Reach out to us on [Slack.](https://join.slack.com/t/operatefirst/shared_invite/zt-o2gn4wn8-O39g7sthTAuPCvaCNRnLww)
